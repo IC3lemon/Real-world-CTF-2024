@@ -24,6 +24,7 @@ I tried to check what was in the pcap file.\
 ![image](https://github.com/IC3lemon/Real-world-CTF-2024/assets/150153966/c784d48a-3457-4690-b885-421024a3bae8)
 
 saw that it was mostly tcp and there were a few ssh requests here and there.\
-but couldn't proceed further with it.\
+it seemed like some sort of server-client banter.\
+but I couldn't proceed further than this.\
 no clue what to do.
 
